@@ -5,7 +5,7 @@ Project ini mengambil data dari suatu kompetisi Hackathon yang diselenggarakan D
 Extract, Transform dan Load (ETL) merupakan kumpulan proses untuk "memindahkan" data dari satu tempat ke tempat lain.
 Tempat yang dimaksud adalah dari sumber data (bisa berupa database aplikasi, file, logs, database dari 3rd party, dan lainnya) ke data warehouse.
 
-Dataset URL: `https://storage.googleapis.com/dqlab-dataset/dqthon-participants.csv.`
+Dataset URL: `https://storage.googleapis.com/dqlab-dataset/dqthon-participants.csv`
 Dataset terdiri dari 5000 baris data (5000 pendaftar) dengan format CSV (Comma-separated values) dan memiliki beberapa kolom diantaranya:
 
 1. participant_id: ID dari peserta/partisipan hackathon.
