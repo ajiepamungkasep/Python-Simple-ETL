@@ -1,4 +1,4 @@
-# Python-Simple-ETL
+# Simple ETL with Pandas
 ## Pengantar
 Project ini mengambil data dari suatu kompetisi Hackathon yang diselenggarakan DQLab dengan nama DQThon. Hackathon merupakan kompetisi membuat software yang dilaksanakan secara marathon yang biasanya diikuti secara tim. Umumnya, peserta hackathon diminta untuk mengembangkan platform (mobile, web, desktop, dll.) dalam kurun waktu tertentu untuk menyelesaikan permasalahan yang sudah ditetapkan/didefinisikan oleh penyelenggara ataupun berdasarkan tema yang dipilih oleh tim tersebut. Untuk bisa mengikuti hackathon dari suatu instansi, calon peserta diwajibkan untuk mendaftarkan diri mereka pada situs/form tertentu dengan memasukkan beberapa informasi yang diminta oleh penyelenggara tersebut.
 
