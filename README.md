@@ -17,5 +17,6 @@ Dataset terdiri dari 5000 baris data (5000 pendaftar) dengan format CSV (Comma-s
 8. institute: institusi peserta saat ini, bisa berupa nama perusahaan maupun nama universitas
 9. occupation
 10. register_time: waktu peserta melakukan pendaftaran hackathon dalam second
+
 Pada proyek ini akan menghasilkan beberapa kolom dengan memanfaatkan kolom-kolom yang ada, sehingga akhir dari proyek ini berupa hasil transformasi data dengan beberapa kolom baru selain dari 10 kolom diatas.
 
