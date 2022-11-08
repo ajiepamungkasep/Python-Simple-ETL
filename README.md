@@ -7,15 +7,15 @@ Tempat yang dimaksud adalah dari sumber data (bisa berupa database aplikasi, fil
 
 Dataset terdiri dari 5000 baris data (5000 pendaftar) dengan format CSV (Comma-separated values) dan memiliki beberapa kolom diantaranya:
 
-participant_id: ID dari peserta/partisipan hackathon. Kolom ini bersifat unique sehingga antar peserta pasti memiliki ID yang berbeda
-first_name: nama depan peserta
-last_name: nama belakang peserta
-birth_date: tanggal lahir peserta
-address: alamat tempat tinggal peserta
-phone_number: nomor hp/telepon peserta
-country: negara asal peserta
+participant_id: ID dari peserta/partisipan hackathon.
+first_name
+last_name
+birth_date
+address
+phone_number
+country
 institute: institusi peserta saat ini, bisa berupa nama perusahaan maupun nama universitas
-occupation: pekerjaan peserta saat ini
+occupation
 register_time: waktu peserta melakukan pendaftaran hackathon dalam second
 Pada proyek ini akan menghasilkan beberapa kolom dengan memanfaatkan kolom-kolom yang ada, sehingga akhir dari proyek ini berupa hasil transformasi data dengan beberapa kolom baru selain dari 10 kolom diatas.
 
